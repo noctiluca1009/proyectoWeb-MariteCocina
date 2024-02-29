@@ -1,3 +1,6 @@
 body{
     background-color: rgb(23, 187, 132);
 }
+h1, h2 {
+    color: cadetblue;
+}
